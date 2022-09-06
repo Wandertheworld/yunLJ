@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 a
 a
@@ -16,3 +17,15 @@ a
 aa
 
 
+=======
+aaaaaaaaa
+a       a
+a       a
+aaaaaaaaa
+
+aaaaaaaaa
+a       a
+a       a
+a       a
+aaaaaaaaa
+>>>>>>> fenzhic
